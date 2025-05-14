@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/f5dcfe87fec24656b5c829799b8b18ad/artifacts
+end_time: 1747237470802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5dcfe87fec24656b5c829799b8b18ad
+run_name: skittish-loon-610
+run_uuid: f5dcfe87fec24656b5c829799b8b18ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237470758
+status: 3
+tags: []
+user_id: Shres

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/e3e662f2354442a79000188a658ea0ad/artifacts
+end_time: 1747237923989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3e662f2354442a79000188a658ea0ad
+run_name: abrasive-hawk-469
+run_uuid: e3e662f2354442a79000188a658ea0ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237916216
+status: 3
+tags: []
+user_id: Shres

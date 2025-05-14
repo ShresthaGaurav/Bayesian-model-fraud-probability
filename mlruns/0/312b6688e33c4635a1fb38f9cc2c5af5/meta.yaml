@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/312b6688e33c4635a1fb38f9cc2c5af5/artifacts
+end_time: 1747237271999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 312b6688e33c4635a1fb38f9cc2c5af5
+run_name: inquisitive-asp-629
+run_uuid: 312b6688e33c4635a1fb38f9cc2c5af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237264588
+status: 3
+tags: []
+user_id: Shres

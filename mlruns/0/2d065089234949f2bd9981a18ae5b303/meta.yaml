@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/2d065089234949f2bd9981a18ae5b303/artifacts
+end_time: 1747238373827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d065089234949f2bd9981a18ae5b303
+run_name: amusing-kite-460
+run_uuid: 2d065089234949f2bd9981a18ae5b303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747238366074
+status: 3
+tags: []
+user_id: Shres

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/c234126b2a5d478883b6c818c872175c/artifacts
+end_time: 1747237274898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c234126b2a5d478883b6c818c872175c
+run_name: gentle-koi-671
+run_uuid: c234126b2a5d478883b6c818c872175c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237274853
+status: 3
+tags: []
+user_id: Shres

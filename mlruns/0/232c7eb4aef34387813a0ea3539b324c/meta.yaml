@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/232c7eb4aef34387813a0ea3539b324c/artifacts
+end_time: 1747237724197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 232c7eb4aef34387813a0ea3539b324c
+run_name: fortunate-moose-102
+run_uuid: 232c7eb4aef34387813a0ea3539b324c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237716312
+status: 3
+tags: []
+user_id: Shres

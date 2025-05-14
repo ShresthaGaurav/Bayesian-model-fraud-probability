@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/f8c81ce8f7844db2acc20e824f85c973/artifacts
+end_time: 1747236983069
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8c81ce8f7844db2acc20e824f85c973
+run_name: charming-lynx-733
+run_uuid: f8c81ce8f7844db2acc20e824f85c973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747236975236
+status: 3
+tags: []
+user_id: Shres

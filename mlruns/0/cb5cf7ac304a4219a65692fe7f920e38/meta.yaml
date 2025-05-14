@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/cb5cf7ac304a4219a65692fe7f920e38/artifacts
+end_time: 1747236865831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb5cf7ac304a4219a65692fe7f920e38
+run_name: rambunctious-bee-901
+run_uuid: cb5cf7ac304a4219a65692fe7f920e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747236857076
+status: 3
+tags: []
+user_id: Shres

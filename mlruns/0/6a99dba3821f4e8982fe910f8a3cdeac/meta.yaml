@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shres/Desktop/py/mlruns/0/6a99dba3821f4e8982fe910f8a3cdeac/artifacts
+end_time: 1747237767560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a99dba3821f4e8982fe910f8a3cdeac
+run_name: agreeable-grouse-486
+run_uuid: 6a99dba3821f4e8982fe910f8a3cdeac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747237767511
+status: 3
+tags: []
+user_id: Shres
